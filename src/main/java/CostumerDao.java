@@ -37,3 +37,5 @@ public class CostumerDao {
 			return status;
 		}
 }
+
+//Leonardo Pinto Teixeira e Gabriel dos Santos Coutinho

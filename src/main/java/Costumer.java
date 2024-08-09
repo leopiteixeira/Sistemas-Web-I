@@ -36,3 +36,5 @@ public class Costumer {
 		this.salesman_id = salesman_id;
 	}
 }
+
+//Leonardo Pinto Teixeira e Gabriel dos Santos Coutinho
